@@ -1,0 +1,8 @@
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\trabajo para entregar\src\Library\obj\Debug\netstandard2.0\Library.pdb
